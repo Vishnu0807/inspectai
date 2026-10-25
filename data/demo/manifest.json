@@ -1,0 +1,506 @@
+[
+  {
+    "path": "reference/bottle_01.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_02.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_03.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_04.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_05.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_06.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_07.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_08.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_09.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_10.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_11.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_12.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_13.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_14.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_15.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_16.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_17.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_18.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_19.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_20.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_21.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_22.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_23.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "reference/bottle_24.png",
+    "split": "reference",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_01.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_02.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_03.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_04.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_05.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_06.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_07.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_08.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_09.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_10.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_11.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "validation/bottle_12.png",
+    "split": "validation",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_01.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_02.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_03.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_04.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_05.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_06.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_07.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_08.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_09.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_10.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_11.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_12.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_13.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_14.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_15.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_16.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_17.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_normal/bottle_18.png",
+    "split": "test_normal",
+    "label": 0,
+    "synthetic_defect": null,
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_01.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "scratch",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_02.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "stain",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_03.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "label_tear",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_04.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "cap_chip",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_05.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "scratch",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_06.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "stain",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_07.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "label_tear",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_08.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "cap_chip",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_09.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "scratch",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_10.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "stain",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_11.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "label_tear",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_12.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "cap_chip",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_13.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "scratch",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_14.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "stain",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_15.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "label_tear",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_16.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "cap_chip",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_17.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "scratch",
+    "provenance": "fully synthetic rendered bottle"
+  },
+  {
+    "path": "test_defect/bottle_18.png",
+    "split": "test_defect",
+    "label": 1,
+    "synthetic_defect": "stain",
+    "provenance": "fully synthetic rendered bottle"
+  }
+]

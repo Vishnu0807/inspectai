@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+data/feedback.sqlite3
+data/feedback.sqlite3-*

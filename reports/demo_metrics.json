@@ -1,0 +1,61 @@
+{
+  "dataset": "fully synthetic bottles; synthetic marks, scratches, label tears and cap chips",
+  "warning": "Demonstration only. Scores cannot establish performance on real manufacturing defects.",
+  "model": "torchvision ResNet18_Weights.IMAGENET1K_V1, frozen layer2+layer3",
+  "bank_sampling": "seeded uniform random subset; not the original PatchCore coreset",
+  "config": {
+    "size": 224,
+    "grid": 14,
+    "bank_size": 768,
+    "seed": 17,
+    "normal_quantile": 0.95
+  },
+  "split_sizes": {
+    "reference": 24,
+    "validation": 12,
+    "test_normal": 18,
+    "test_defect": 18
+  },
+  "threshold": 0.849,
+  "threshold_policy": "95th percentile of separate normal validation image scores; score > threshold is defect",
+  "validation_normal_false_alarm_rate": 0.0833,
+  "test_metrics": {
+    "image_auroc": 1.0,
+    "precision": 0.8182,
+    "recall": 1.0,
+    "false_alarm_rate": 0.2222,
+    "false_alarms": 4,
+    "normal_count": 18
+  },
+  "baseline_scores": {
+    "median_normal_score": 0.76682,
+    "median_defect_score": 1.28779
+  },
+  "median_inference_ms": 65.08,
+  "stress_test": {
+    "lighting": {
+      "change": "72% brightness",
+      "median_normal_score": 0.79065,
+      "median_defect_score": 1.29413,
+      "false_alarm_rate": 0.2222,
+      "recall": 1.0,
+      "median_inference_ms": 67.12
+    },
+    "blur": {
+      "change": "Gaussian radius 1.7 px",
+      "median_normal_score": 1.07288,
+      "median_defect_score": 1.31211,
+      "false_alarm_rate": 1.0,
+      "recall": 1.0,
+      "median_inference_ms": 64.81
+    },
+    "viewpoint": {
+      "change": "8\u00b0 rotation with neutral fill",
+      "median_normal_score": 1.07534,
+      "median_defect_score": 1.35534,
+      "false_alarm_rate": 1.0,
+      "recall": 1.0,
+      "median_inference_ms": 56.47
+    }
+  }
+}
