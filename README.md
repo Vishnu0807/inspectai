@@ -87,30 +87,3 @@ tests/                    Logic, input and data-provenance tests
 
 **Feature path:** ImageNet normalization and 224×224 input → ResNet-18 `layer2` and `layer3` → pooled 14×14 grid → per-layer vector normalization → concatenation → at most 768 reference vectors sampled with a fixed seed → Euclidean 1-nearest-neighbour distance for every patch → maximum distance for the image score. The bank and threshold are cached per reference set in the app process. A different camera angle, product type, or lighting may require a new bank and validation set.
 
-## Tests and GitHub
-
-```powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
-.\.venv\Scripts\python.exe -m pytest -q
-```
-
-The unit tests substitute a tiny deterministic feature extractor, so they test the scoring, calibration, errors, metrics, provenance and feedback quickly without downloading model weights. The committed evaluation report is the separate real-backbone check. GitHub Actions runs the tests with Python 3.12.
-
-Create an empty public GitHub repository named `inspectai` under `vishnu0807`. From the project folder:
-
-```powershell
-git init
-git add .
-git commit -m "Build InspectAI visual anomaly inspection"
-git branch -M main
-git remote add origin https://github.com/vishnu0807/inspectai.git
-git push -u origin main
-```
-
-For a live demo, deploy the GitHub repository on **Streamlit Community Cloud** with branch `main`, file `app.py`, and **Python 3.12** selected in Advanced settings. Verify the actual app works there before putting its URL on a resume. The first launch downloads the pretrained weights; available memory and outbound download access depend on the host. Local reviewer feedback will not be durable on an ephemeral host.
-
-## Interview explanation
-
-“I used a frozen ResNet-18 to turn bottle images into a grid of local features. I built a memory of features from normal bottles, then measured how far each new patch is from its nearest normal patch. The maximum patch distance is the image score; its spatial grid becomes a heatmap. I fixed a threshold using separate normal validation images and evaluated it on untouched test images. The synthetic test set ranked defects well, but blur and viewpoint shifts caused many false alarms. That taught me to evaluate robustness instead of relying on AUROC alone.”
-
-Good next experiment: photograph **real** bottles under controlled lighting and add a small, manually labelled test set. It may show substantially worse performance. That is valuable evidence too.
